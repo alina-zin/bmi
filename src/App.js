@@ -31,7 +31,7 @@ function App() {
         <div>
           <output>{bmi.toFixed(1)}</output>
         </div>
-        <button>Calculate</button>
+        <button type="submit">Calculate</button>
       </form>
     </div>
   );
